@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sensor_wrapper.dir/encoder.c.o -o sensor_wrapper 
