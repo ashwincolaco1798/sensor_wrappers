@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/yap/sensor_wrappers/encoder.c" "CMakeFiles/sensor_wrapper.dir/encoder.c.o" "gcc" "CMakeFiles/sensor_wrapper.dir/encoder.c.o.d"
+  "/home/yap/sensor_wrappers/ntree.c" "CMakeFiles/sensor_wrapper.dir/ntree.c.o" "gcc" "CMakeFiles/sensor_wrapper.dir/ntree.c.o.d"
   )
 
 # Targets to which this target links.

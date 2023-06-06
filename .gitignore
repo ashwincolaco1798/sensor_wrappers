@@ -2,3 +2,4 @@
 /home/yap/sensor_wrappers/cmake_install.cmake
 /home/yap/sensor_wrappers/CMakeCache.txt
 *.sensor_wrapper
+build/

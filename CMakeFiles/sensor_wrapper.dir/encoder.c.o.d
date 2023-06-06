@@ -1,10 +1,6 @@
 CMakeFiles/sensor_wrapper.dir/encoder.c.o: \
  /home/yap/sensor_wrappers/encoder.c /usr/include/stdc-predef.h \
- /home/yap/sensor_wrappers/include/WifiAP.h \
- /home/yap/sensor_wrappers/include/Element.h \
- /home/yap/sensor_wrappers/include/List.h \
- /home/yap/sensor_wrappers/include/Structure.h \
- /home/yap/sensor_wrappers/include/Internals.h /usr/include/string.h \
+ /home/yap/sensor_wrappers/include/ntree.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -14,9 +10,6 @@ CMakeFiles/sensor_wrapper.dir/encoder.c.o: \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
- /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
- /usr/include/strings.h /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
@@ -29,5 +22,4 @@ CMakeFiles/sensor_wrapper.dir/encoder.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
- /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/yap/sensor_wrappers/include/Camera.h
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h

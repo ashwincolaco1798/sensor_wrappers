@@ -153,6 +153,30 @@ encoder.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sensor_wrapper.dir/build.make CMakeFiles/sensor_wrapper.dir/encoder.c.s
 .PHONY : encoder.c.s
 
+ntree.o: ntree.c.o
+.PHONY : ntree.o
+
+# target to build an object file
+ntree.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sensor_wrapper.dir/build.make CMakeFiles/sensor_wrapper.dir/ntree.c.o
+.PHONY : ntree.c.o
+
+ntree.i: ntree.c.i
+.PHONY : ntree.i
+
+# target to preprocess a source file
+ntree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sensor_wrapper.dir/build.make CMakeFiles/sensor_wrapper.dir/ntree.c.i
+.PHONY : ntree.c.i
+
+ntree.s: ntree.c.s
+.PHONY : ntree.s
+
+# target to generate assembly for a file
+ntree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sensor_wrapper.dir/build.make CMakeFiles/sensor_wrapper.dir/ntree.c.s
+.PHONY : ntree.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... encoder.o"
 	@echo "... encoder.i"
 	@echo "... encoder.s"
+	@echo "... ntree.o"
+	@echo "... ntree.i"
+	@echo "... ntree.s"
 .PHONY : help
 
 

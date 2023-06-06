@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/sensor_wrapper.dir/encoder.c.o -o sensor_wrapper 
+/usr/bin/cc CMakeFiles/sensor_wrapper.dir/encoder.c.o CMakeFiles/sensor_wrapper.dir/ntree.c.o -o sensor_wrapper 
